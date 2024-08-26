@@ -1,0 +1,3 @@
+C:\Users\elise\source\repos\Valdez_INF651_Week01\Valdez_INF651_Week01\obj\Debug\Valdez_INF651_Week01.njsproj.AssemblyReference.cache
+C:\Users\elise\source\repos\Valdez_INF651_Week01\Valdez_INF651_Week01\obj\Debug\Valdez_INF651_Week01.njsproj.CoreCompileInputs.cache
+C:\Users\elise\source\repos\Valdez_INF651_Week01\Valdez_INF651_Week01\bin\Microsoft.NodejsTools.WebRole.dll

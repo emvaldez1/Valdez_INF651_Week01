@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elise\\source\\repos\\Valdez_INF61_HW01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9936C28C-A08F-4F3D-8FE7-7D6592B0823A}|Valdez_INF61_HW01\\Valdez_INF61_HW01.njsproj|C:\\Users\\elise\\source\\repos\\Valdez_INF61_HW01\\Valdez_INF61_HW01\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9936C28C-A08F-4F3D-8FE7-7D6592B0823A}|Valdez_INF61_HW01\\Valdez_INF61_HW01.njsproj|solutionrelative:Valdez_INF61_HW01\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\elise\\source\\repos\\Valdez_INF61_HW01\\Valdez_INF61_HW01\\app.js",
+              "RelativeDocumentMoniker": "Valdez_INF61_HW01\\app.js",
+              "ToolTip": "C:\\Users\\elise\\source\\repos\\Valdez_INF61_HW01\\Valdez_INF61_HW01\\app.js",
+              "RelativeToolTip": "Valdez_INF61_HW01\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-25T00:35:23.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

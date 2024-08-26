@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elise\\source\\repos\\EliseValdezMidTermProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B2821A-7A29-4C85-973B-D0B007B8622A}|EliseValdezMidTermProject\\EliseValdezMidTermProject.pyproj|C:\\Users\\elise\\OneDrive - Fort Hays State University\\FHSU INF 360\\Assignments\\EliseValdezMidTermProject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliseValdezMidTermProject.py",
+              "DocumentMoniker": "C:\\Users\\elise\\OneDrive - Fort Hays State University\\FHSU INF 360\\Assignments\\EliseValdezMidTermProject.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Fort Hays State University\\FHSU INF 360\\Assignments\\EliseValdezMidTermProject.py",
+              "ToolTip": "C:\\Users\\elise\\OneDrive - Fort Hays State University\\FHSU INF 360\\Assignments\\EliseValdezMidTermProject.py",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Fort Hays State University\\FHSU INF 360\\Assignments\\EliseValdezMidTermProject.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-07T15:03:11.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

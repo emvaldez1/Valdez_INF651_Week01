@@ -1,0 +1,14 @@
+{
+  "name": "valdez_inf651_week01",
+  "version": "0.0.0",
+  "description": "Valdez_INF651_Week01",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
